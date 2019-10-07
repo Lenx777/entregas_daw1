@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Realiza un programa que pinte un reloj de arena relleno hecho de asteriscos.
 //El programa debe pedir la altura.
 //Se debe comprobar que la altura sea un número impar mayor o igual a 3, en caso contrario se debe mostrar un mensaje de error.
@@ -15,6 +16,25 @@
 // *****
 //	
 //*******
+=======
+//Realiza un programa que pinte un reloj de arena relleno hecho de asteriscos.
+//El programa debe pedir la altura.
+//Se debe comprobar que la altura sea un número impar mayor o igual a 3, en caso contrario se debe mostrar un mensaje de error.
+//
+//Ejemplo:
+//Por favor, introduzca la altura del reloj de arena: 7 
+//*******
+// *****
+//	***
+//	
+//	 *
+//	
+//	***
+//	
+// *****
+//	
+//*******
+>>>>>>> 49652907993483825fbfd1039a3c990e00c447c8
 Algoritmo EJ3
 	
 	Escribir "Introduce una altura"
